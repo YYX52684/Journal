@@ -1,0 +1,1 @@
+Exam (70%) → In person → 2 hours → Closed book but some relevant formulae will be provided → Standard calculators only, no computational tools • Coursework (30%) → Jupyter notebook with coding and written answers → Individualised data → Release late October, submission deadline mid November (tbc)
